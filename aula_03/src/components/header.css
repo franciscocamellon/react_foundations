@@ -1,0 +1,18 @@
+.container_home {
+    padding: 5px 10px;
+    background-color: #ed1b2e;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container_home h1 {
+    font-size: 1.5rem;
+}
+
+.container_home ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}

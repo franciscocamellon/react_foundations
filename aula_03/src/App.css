@@ -1,0 +1,13 @@
+.subtitle {
+    font-weight: 400;
+    text-align: center;
+    margin-top: 20;
+}
+
+.container-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
