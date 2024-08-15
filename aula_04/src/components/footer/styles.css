@@ -1,0 +1,17 @@
+.container_footer {
+    background-color: #f57d00;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    font-weight: 500;
+    height: 10vh;
+}
+
+.container_logos {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+}

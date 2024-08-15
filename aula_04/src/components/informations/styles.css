@@ -1,0 +1,22 @@
+.informations_container {
+    padding: 5px 10px;
+    margin: 15px;
+}
+
+.container_cards_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.card_info {
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.card_info img {
+    width: 150px;
+}

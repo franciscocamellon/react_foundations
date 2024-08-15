@@ -4,6 +4,8 @@ import Search from '../../components/search'
 import CardCategory from '../../components/card-category'
 import './styles.css'
 import Restaurants from '../../components/restaurants'
+import Informations from '../../components/informations'
+import Footer from '../../components/footer'
 
 
 function Home() {
@@ -19,6 +21,8 @@ function Home() {
       </div>
 
       <Restaurants />
+      <Informations />
+      <Footer />
     </>
   )
 }
